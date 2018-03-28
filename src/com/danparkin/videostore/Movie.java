@@ -17,10 +17,6 @@ public class Movie {
         return _priceCode;
     }
 
-    public void setPriceCode(int arg) {
-        _priceCode = arg;
-    }
-
     public String getTitle() {
         return _title;
     }

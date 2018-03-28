@@ -8,7 +8,7 @@ public class Main {
         Rental firstRental = new Rental(firstRentalMovie, firstMovieDaysRentedFor);
 
         int secondMovieDaysRentedFor = 2;
-        Movie secondRentalMovie = new Movie("Star Wars: Episode IV - A New Hope", Movie.NEW_RELEASE);
+        Movie secondRentalMovie = new Movie("Star Wars: Episode IV - A New Hope", Movie.REGULAR);
         Rental secondRental = new Rental(secondRentalMovie, secondMovieDaysRentedFor);
 
         int thirdMovieDaysRentedFor = 1;
