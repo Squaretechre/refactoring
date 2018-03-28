@@ -1,5 +1,5 @@
-import extract.method.Order;
-import extract.method.OrderHistory;
+import com.danparkin.extractmethod.Order;
+import com.danparkin.extractmethod.OrderHistory;
 import org.junit.Test;
 
 import java.io.ByteArrayOutputStream;

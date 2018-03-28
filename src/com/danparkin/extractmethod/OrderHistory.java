@@ -1,4 +1,4 @@
-package extract.method;
+package com.danparkin.extractmethod;
 
 import java.util.ArrayList;
 import java.util.Collections;

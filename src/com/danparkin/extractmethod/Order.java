@@ -1,4 +1,4 @@
-package extract.method;
+package com.danparkin.extractmethod;
 
 public class Order {
     private double _amount;
