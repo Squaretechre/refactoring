@@ -1,7 +1,5 @@
 package com.danparkin.videostore;
 
-import com.danparkin.splittemporaryvariable.Haggis;
-
 public class Main {
 
     public static void main(String[] args) {
