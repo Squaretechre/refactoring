@@ -1,9 +1,11 @@
 # Extract Class
 
-## Problem
+## Moving Features Between Objects 
+
+### Problem
 You have one class doing work that should be done by two.
 
-## Solution
+### Solution
 Create a new class and move the relevant fields and methods from the old class into the new class.
 
     Person
