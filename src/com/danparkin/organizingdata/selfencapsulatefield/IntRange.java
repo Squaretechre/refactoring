@@ -1,4 +1,4 @@
-package com.danparkin.selfencapsulatefield;
+package com.danparkin.organizingdata.selfencapsulatefield;
 
 public class IntRange {
     private int _low;

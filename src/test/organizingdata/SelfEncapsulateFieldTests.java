@@ -1,4 +1,6 @@
-import com.danparkin.selfencapsulatefield.IntRange;
+package organizingdata;
+
+import com.danparkin.organizingdata.selfencapsulatefield.IntRange;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertTrue;
